@@ -2,6 +2,9 @@
 
 
 
- informacion del sistema de mantenimeinto de impresoras y mantenimiento
+ informacion del sistema de mantenimiento de impresoras y reporte
 
-
+se realizara un resgitro de las unidades de imprecion 
+de su uso , y como estas estan tanto alamacenadas, y el registro y almacenamiento 
+de los cartuchos 
+--------------------------------------------------------------------------------
